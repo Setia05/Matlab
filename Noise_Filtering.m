@@ -2,7 +2,7 @@ close all;clear;clc;
  
 %% Declarations
 
-ts = 0.001;
+ts = 0.001; 
 fs = 1/ts;
 fc = 5;
 t = 0:ts:2;
